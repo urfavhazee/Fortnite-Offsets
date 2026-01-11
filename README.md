@@ -23,19 +23,7 @@ Access additional tools and documentation:
 
 - **SDK Documentation**: Available at [CapWare SDK](https://capware.fun)
 
-### 📁 Available Files
 
-| File | Description |
-|------|-------------|
-| [Camera.h](Camera.h) | Camera initialization and update functionality |
-| [FName.h](FName.h) | FName decryption and string resolution |
-| [GObjects.h](GObjects.h) | GObjects array decryption and indexing |
-| [GetBoneWithRotation.h](GetBoneWithRotation.h) | Bone matrix and rotation calculations |
-| [MemoryAim.hpp](MemoryAim.hpp) | Memory-based aim processing |
-| [ProjectWorldToScreen.h](ProjectWorldToScreen.h) | World to screen coordinate projection |
-| [UWorld Decryption.h](UWorld%20Decryption.h) | UWorld pointer decryption |
-| [VisCheck.h](VisCheck.h) | Visibility checking utilities |
-| [offsets.h](offsets.h) | Current game offsets for v39.20 |
 
 ## 📊 Build Information
 
