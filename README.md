@@ -1,7 +1,7 @@
 <div align="center">
 
 # Fortnite Offsets Repository
-### Current Build: v39.20
+### Current Build: v39.30
 
 [![Repository Views](https://komarev.com/ghpvc/?username=urfavhazee&label=Views&color=blueviolet&style=flat-square)](https://github.com/urfavhazee/Fortnite-Offsets)
 [![Stars](https://img.shields.io/github/stars/urfavhazee/Fortnite-Offsets?style=flat-square&color=gold)](https://github.com/urfavhazee/Fortnite-Offsets/stargazers)
@@ -27,7 +27,7 @@ Access additional tools and documentation:
 
 ## 📊 Build Information
 
-- **Active Build**: `++Fortnite+Release-39.20-CL-49564179-Windows`
+- **Active Build**: `++Fortnite+Release-39.30-CL-49874243-Windows`
 - **Status**: ✅ Actively Maintained
 - **Update Frequency**: Within hours of official patches
 
