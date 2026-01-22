@@ -2,10 +2,11 @@
 #include <cstdint>
 #include <algorithm>
 
-inline uint64_t DecryptUworld(uint64_t gworld)
+inline uint64_t DecryptUworld(uint64_t value)
 {
-    return ~std::rotl(gworld ^ 0x7B40E797ULL, 50);
+    return (value ^ 0xFFFFFFFFD599D092ULL) + 0x248ULL;
 }
+
 uintptr_t encryptedUWorld = Memory::Read<uintptr_t>(Kernel::state.process_base + offsets::UWorld);
 uintptr_t decryptedUWorld = DecryptUworld(encryptedUWorld);
 
